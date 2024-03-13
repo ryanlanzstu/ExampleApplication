@@ -1,3 +1,6 @@
+# Referenced: https://stackoverflow.com/questions/61625191/nvm-in-gitlab-ci-script-and-ssh
+
+
 #!/usr/bin/env bash
 sudo apt update
 
